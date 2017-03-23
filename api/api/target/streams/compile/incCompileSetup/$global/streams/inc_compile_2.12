@@ -1,0 +1,303 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/matheus.pereira/workspace/challenges/bigdata/api/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> /Users/matheus.pereira/workspace/challenges/bigdata/api/target/scala-2.12/classes/Server$.class
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> /Users/matheus.pereira/workspace/challenges/bigdata/api/target/scala-2.12/classes/Server.class
+binary dependencies:
+6 items
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> /Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.14.jar
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> /Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.0.jar
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> /Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.0.jar
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> /Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.14.jar
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> /Users/matheus.pereira/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Server
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Server$
+used names:
+169 items
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> +
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> /
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> <byname>
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> <init>
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> <refinement>
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> <repeated>
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> A
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ActorMaterializer
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ActorMaterializerSettings
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ActorRefFactory
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ActorSystem
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Any
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> AnyRef
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ApplyConverter
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Array
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Aux
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ConnectionContext
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Directive
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Directive0
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Directive1
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Directives
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ExceptionHandler
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ExecutionContext
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ExecutionContextExecutor
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Field
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FieldDef
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FieldDefAux
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FieldMagnet
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FieldUnmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Flow
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Fold
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FoldLeft
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FormData
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FormFieldDirectives
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FromEntityUnmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FromStrictFormFieldUnmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> FromStringUnmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Function1
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Future
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Http
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> HttpExt
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> HttpRequest
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> HttpResponse
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> In
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Int
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Join
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> JoinAux
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> L
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> LoggingAdapter
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Marshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Materializer
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Multipart
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> NotUsed
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Nothing
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Object
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Op
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Option
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Out
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> P
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ParserSettings
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> PathMatcher
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> PathMatcher0
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Predef
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> R
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> RejectionHandler
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> RequestContext
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Route
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> RouteConcatenation
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> RouteResult
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> RouteWithConcatenation
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> RoutingLog
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> RoutingSettings
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> S
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> SFU
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Segment
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Server
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ServerBinding
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ServerSettings
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> StandardRoute
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> StdIn
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> StrictForm
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> String
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> StringContext
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> StringMarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> T
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> T1
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Terminated
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ToEntityMarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ToResponseMarshallable
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ToResponseMarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Try
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Tuple1
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> TupleOps
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> U
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Unit
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> Unmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> _enhanceRouteWithConcatenation
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> _segmentStringToPathMatcher
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> actor
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> addByNameNullaryApply
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> addDirectiveApply
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> akka
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> apply
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> bindAndHandle
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> bindingFuture
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> common
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> complete
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> default
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> defaultUrlEncodedFormDataUnmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> delete
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> dispatcher
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> executionContext
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> flatMap
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> forString
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> formFields
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> fromActorSystem
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> fromBoth
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> get
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> hac1
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> http
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> identityUnmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> io
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> join
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> liftMarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> link
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> marshalling
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> materializer
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> multipartFormDataUnmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> onComplete
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> package
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> path
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> post
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> println
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> qual$1
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> readLine
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> route
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> route2HandlerFlow
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> s
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> scala
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> scaladsl
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> server
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> settings
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> stream
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> stringUnmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> system
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> t0
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> terminate
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> unbind
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> unmarshaller
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> unmarshalling
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> user
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> util
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$10
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$11
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$12
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$13
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$14
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$15
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$16
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$17
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$18
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$19
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$20
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$5
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$6
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$7
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$8
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> x$9
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> ~
+product stamps:
+2 items
+/Users/matheus.pereira/workspace/challenges/bigdata/api/target/scala-2.12/classes/Server$.class -> lastModified(1490295981000)
+/Users/matheus.pereira/workspace/challenges/bigdata/api/target/scala-2.12/classes/Server.class -> lastModified(1490295981000)
+source stamps:
+1 items
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> hash(748db54e65e879a6cece0a15ea55eab2b3783756)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.14.jar -> lastModified(1479741380000)
+/Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.0.jar -> lastModified(1479829889000)
+/Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.0.jar -> lastModified(1479829931000)
+/Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.14.jar -> lastModified(1479741455000)
+/Users/matheus.pereira/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.14.jar -> akka.actor.ActorRefFactory
+/Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.0.jar -> akka.http.scaladsl.settings.ParserSettings$
+/Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.0.jar -> akka.http.scaladsl.server.RoutingLog$
+/Users/matheus.pereira/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.14.jar -> akka.stream.ActorMaterializer
+/Users/matheus.pereira/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.concurrent.Future
+internal apis:
+1 items
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkrYLlwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hws11BT3QABm5vdGlmeXNxAH4ADKaBhrF0AAR3YWl0c3EAfgAM+S6DJHQADSRhc0luc3RhbmNlT2ZzcQB+AAxvhyDwdAAGU2VydmVyc3EAfgAMlm2MGnQABmVxdWFsc3NxAH4ADOsBcot0AAxhc0luc3RhbmNlT2ZzcQB+AAzH1rxVdAAMc3luY2hyb25pemVkc3EAfgAMtCNHMHQADSRpc0luc3RhbmNlT2ZzcQB+AAxl8vNbdAAEbWFpbnNxAH4ADPmEWHp0AAlub3RpZnlBbGxzcQB+AAwO+LbNdAAMaXNJbnN0YW5jZU9mc3EAfgAMHeoRn3QAAj09c3EAfgAMro9iiXQABWNsb25lc3EAfgAMCM3SNXQACHRvU3RyaW5nc3EAfgAMpdXPMXQAAiE9c3EAfgAMWl/rfHQACGdldENsYXNzc3EAfgAMK4U40HQAAm5lc3EAfgAMQbuZAHQAAmVxc3EAfgAM7r0H9nQAAiMjc3EAfgAMSB+SjXQACGZpbmFsaXplc3EAfgAMWOYlX3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFa/I/+F3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFEvVXNlcnMvbWF0aGV1cy5wZXJlaXJhL3dvcmtzcGFjZS9jaGFsbGVuZ2VzL2JpZ2RhdGEvYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR0jbVOZeh5ps7OChXqVeqys3g3Vg==
+external apis:
+0 items
+source infos:
+1 items
+/Users/matheus.pereira/workspace/challenges/bigdata/api/src/main/scala/server.scala -> 
+AAAAAAAAAAA=
+compilations:
+45 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvIL/vN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvIZPGZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdDDqh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdGG5d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdHWQp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdI0mh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdLOOV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdNasx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdPKbZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdSHKV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdfjn11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdg1eB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdi9j51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvdk0Jp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvd7g/t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWveC0aR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWveNzQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWveRITB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvejihh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvenv7Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWveqhe11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWver3Wl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvesmz51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxHzIB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxInKB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxJae91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxO4w51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxbSid1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxbzZp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxdCmF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxfIwB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxftVF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxf+wl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxgk/B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxlHcV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxmU9p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxmwtZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxp2X51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxqa8p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxsBKV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvxt+Yd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvyPF0V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvyPojt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvyP1hR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvyP/hd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9Vc2Vycy9tYXRoZXVzLnBlcmVpcmEvd29ya3NwYWNlL2NoYWxsZW5nZXMvYmlnZGF0YS9hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
