@@ -4,6 +4,10 @@ import akka.http.scaladsl.server.Directives._
 import akka.stream.ActorMaterializer
 import scala.io.StdIn
 
+import org.apache.kafka.common.serialization.StringSerializer
+import cakesolutions.kafka.KafkaProducer
+import cakesolutions.kafka.KafkaProducerRecord
+import cakesolutions.kafka.KafkaProducer.Conf
 
 object Server {
   def main(args: Array[String]) {
@@ -13,10 +17,16 @@ object Server {
     // needed for the future flatMap/onComplete in the end
     implicit val executionContext = system.dispatcher
 
+    val producer = KafkaProducer(
+      Conf(new StringSerializer(), new StringSerializer(), bootstrapServers = "localhost:9092")
+    )
+
     val route =
       path(Segment / "view") { (link) =>
         post {
           formFields("user") { user =>
+            val record = KafkaProducerRecord("test", Some(""), s"$user $link")
+            producer.send(record)
             complete("Usuario: " + user + " visualizou: " + link + "\n")
           }
         }

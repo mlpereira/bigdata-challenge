@@ -8,6 +8,8 @@ lazy val root = (project in file(".")).
       version      := "0.1.0-SNAPSHOT"
     )),
     name := "API",
-    libraryDependencies += "com.typesafe.akka" %% "akka-http" % "10.0.0"
+    resolvers += Resolver.bintrayRepo("cakesolutions", "maven"),
+    libraryDependencies += "com.typesafe.akka" %% "akka-http" % "10.0.0",
+    libraryDependencies += "net.cakesolutions" %% "scala-kafka-client" % "0.10.2.0"
 
   )
