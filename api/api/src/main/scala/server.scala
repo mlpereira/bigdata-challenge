@@ -25,7 +25,7 @@ object Server {
       path(Segment / "view") { (link) =>
         post {
           formFields("user") { user =>
-            val record = KafkaProducerRecord("test", Some(""), s"$user $link")
+            val record = KafkaProducerRecord("test", Some(s"$user"), s"$link")
             producer.send(record)
             complete("Usuario: " + user + " visualizou: " + link + "\n")
           }
