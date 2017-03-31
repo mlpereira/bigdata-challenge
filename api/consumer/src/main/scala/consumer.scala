@@ -10,7 +10,7 @@ import org.apache.spark.streaming.kafka.KafkaUtils
 object Consumer {
   def main(args: Array[String]) {
     val conf = new SparkConf().setMaster("local[*]").setAppName("KafkaReceiver")
-    val ssc = new StreamingContext(conf, Seconds(60))
+    val ssc = new StreamingContext(conf, Seconds(10))
 
     val kafkaStream = KafkaUtils.createStream(ssc, "localhost:2181","spark-streaming-consumer-group", Map("test" -> 5))
     kafkaStream.foreachRDD { rdd =>
@@ -20,9 +20,11 @@ object Consumer {
       val spark = SparkSession.builder.config(rdd.sparkContext.getConf).getOrCreate()
       import spark.implicits._
 
-      val dataframe = rdd.toDF
-      dataframe.show()
-      dataframe.write.parquet("../parquet/" + timestring)
+      if (!rdd.isEmpty) {
+        val dataframe = rdd.toDF
+        dataframe.show()
+        dataframe.write.parquet("../parquet/" + timestring)
+      }
 
     }
     ssc.start()
