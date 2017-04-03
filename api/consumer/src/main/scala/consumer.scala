@@ -4,7 +4,7 @@ import org.apache.spark.SparkConf
 import org.apache.spark.streaming.StreamingContext
 import org.apache.spark.streaming.Seconds
 import org.apache.spark.streaming.kafka.KafkaUtils
-
+import org.apache.log4j.{Level, Logger}
 
 
 object Consumer {
@@ -19,6 +19,8 @@ object Consumer {
 
       val spark = SparkSession.builder.config(rdd.sparkContext.getConf).getOrCreate()
       import spark.implicits._
+      val rootLogger = Logger.getRootLogger()
+      rootLogger.setLevel(Level.ERROR)
 
       if (!rdd.isEmpty) {
         val dataframe = rdd.toDF

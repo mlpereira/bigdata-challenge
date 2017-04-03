@@ -4,6 +4,7 @@ import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
 import org.apache.commons.io.FileUtils
 import org.apache.commons.io.filefilter.WildcardFileFilter
+import org.apache.log4j.{Level, Logger}
 
 
 object ViewsPerUrl {
@@ -13,6 +14,8 @@ object ViewsPerUrl {
     val sc = SparkContext.getOrCreate(conf)
     val sqlContext = new SQLContext(sc)
     import sqlContext.implicits._
+    val rootLogger = Logger.getRootLogger()
+    rootLogger.setLevel(Level.ERROR)
 
     while(true) {
       val names = new File("../api/consumer/url-user-parquets/").list
