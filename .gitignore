@@ -1,2 +1,5 @@
 target/
 parquet/
+url-parquets/
+url-user-parquets/
+url-user-parquetsbackup/

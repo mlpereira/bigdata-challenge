@@ -23,7 +23,7 @@ object Consumer {
       if (!rdd.isEmpty) {
         val dataframe = rdd.toDF
         dataframe.show()
-        dataframe.write.parquet("../parquet/" + timestring)
+        dataframe.write.parquet("./url-user-parquets/" + timestring)
       }
 
     }
